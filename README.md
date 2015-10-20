@@ -1,5 +1,6 @@
 ABCd: ActionScript Byte Code Disassembler
 
+```
 # Copyright (c) 2015 The MITRE Corporation. All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without
@@ -22,5 +23,6 @@ ABCd: ActionScript Byte Code Disassembler
 # LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
 # OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 # SUCH DAMAGE.
+```
 
 Approved for Public Release; Distribution Unlimited. Case Number 15-2781.
